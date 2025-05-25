@@ -1,6 +1,6 @@
 # PixelGame 🚧 *(En desarrollo)*
 
-PixelGame es un juego en desarrollo, dirigido a personas que quieren mejorar su escritura en teclado con gráficos pixelados.
+PixelGame es un proyecto personal en desarrollo sobre un juego, dirigido a personas que quieren mejorar su escritura en teclado con gráficos pixelados.
 
 ## Objetivo del juego
 
