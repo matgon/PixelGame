@@ -1,0 +1,44 @@
+﻿  Game.cpp
+M:\Proyectos\JuegosC++\PixelGame\include\GameEntity.h(6,55): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "src/core/Game.cpp")
+  
+M:\Proyectos\JuegosC++\PixelGame\include\GameEntity.h(6,65): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "src/core/Game.cpp")
+  
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(38,35): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,73): warning C4244:         with
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,73): warning C4244:         [
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,73): warning C4244:             T=float
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,73): warning C4244:         ]
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,55): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,55): warning C4244:         with
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,55): warning C4244:         [
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,55): warning C4244:             T=float
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(64,55): warning C4244:         ]
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,94): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,94): warning C4244:         with
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,94): warning C4244:         [
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,94): warning C4244:             T=float
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,94): warning C4244:         ]
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,66): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,66): warning C4244:         with
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,66): warning C4244:         [
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,66): warning C4244:             T=float
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(159,66): warning C4244:         ]
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(217,57): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(217,57): warning C4267:         with
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(217,57): warning C4267:         [
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(217,57): warning C4267:             _Ty=int
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(217,57): warning C4267:         ]
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(223,47): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(223,47): warning C4244:         with
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(223,47): warning C4244:         [
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(223,47): warning C4244:             T=unsigned int
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(223,47): warning C4244:         ]
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(229,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(229,13): warning C4244:         with
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(229,13): warning C4244:         [
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(229,13): warning C4244:             T=unsigned int
+M:\Proyectos\JuegosC++\PixelGame\src\core\Game.cpp(229,13): warning C4244:         ]
+  PixelGame.vcxproj -> M:\Proyectos\JuegosC++\PixelGame\x64\Debug\PixelGame.exe
